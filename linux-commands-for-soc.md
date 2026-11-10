@@ -161,3 +161,9 @@ Understand how Linux commands help SOC analysts:
 
 **Practice these commands in a Linux VM or authorized security lab.**
 
+
+## 📚 Linux Learning Resources
+
+- [Linux Journey](https://linuxjourney.com/) – Beginner-friendly Linux fundamentals and commands.
+- [TryHackMe – Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals) – Hands-on Linux practice for cybersecurity.
+- [OverTheWire – Bandit](https://overthewire.org/wargames/bandit/) – Command-line challenges to strengthen Linux skills.
